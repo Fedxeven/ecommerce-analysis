@@ -1,0 +1,16 @@
+order_id,date,product,category,price,quantity
+1,2026-01-05,Headphones,Electronics,5000,1
+2,2026-01-07,Keyboard,Electronics,3500,2
+3,2026-01-10,Coffee mug,Home,1200,2
+4,2026-01-12,Backpack,Accessories,4000,1
+5,2026-01-15,Notebook,Stationery,500,5
+6,2026-01-18,Headphones,Electronics,5000,1
+7,2026-01-20,Keyboard,Electronics,3500,1
+8,2026-01-23,Coffee mug,Home,1200,3
+9,2026-01-25,Backpack,Accessories,4000,2
+10,2026-01-28,Notebook,Stationery,500,4
+11,2026-02-02,Headphones,Electronics,5000,2
+12,2026-02-05,Keyboard,Electronics,3500,1
+13,2026-02-08,Coffee mug,Home,1200,1
+14,2026-02-12,Backpack,Accessories,4000,1
+15,2026-02-15,Notebook,Stationery,500,6
